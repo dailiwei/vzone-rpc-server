@@ -1,8 +1,8 @@
 [toc]
 # vzone 提供免登录RPC节点服务器
 ## 1. 节点集群服务域名列表
-> - https://rpcnode1.vzone.com （暂未开放）
-> - https://rpcnode2.vzone.com （暂未开放）
+> - https://openrpc1.vzone.im
+> - https://openrpc2.vzone.im/ （暂未开放）
 
 ## 2. 提供RPC方法
 ```bash
